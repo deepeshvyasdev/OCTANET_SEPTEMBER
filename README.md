@@ -1,0 +1,1 @@
+I’ve created a Spotify-inspired homepage. While it's not an exact clone, I've made some personal adjustments. The page is designed using HTML and CSS and is fully responsive, catering to various devices. Note that this is just the front/home page.
